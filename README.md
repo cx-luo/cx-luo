@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills & Ecosystem
 <!-- 图标列表：https://skillicons.dev  支持 50+ 技术 -->
-![Skills](https://skillicons.dev/icons?i=vue,nodejs,python,fastapi,postgres,docker,githubactions)
+![Skills](https://skillicons.dev/icons?i=vue,nodejs,python,fastapi,golang,c,mysql,postgres,docker,githubactions)
 
 ---
 
@@ -36,8 +36,6 @@
 
 ---
 
-### 🎯 Fun Facts
-![GitHub Streak](https://streak-stats.demolab.com/?user=cx-luo&theme=vue-dark)
 
 ---
 
