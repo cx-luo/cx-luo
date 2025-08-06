@@ -3,7 +3,7 @@
 - 🔬 Building [**eLabX**](https://github.com/cx-luo/eLabX) – an AI-driven electronic lab notebook for researchers, chemists and engineers.  
 - 🛠️ Tech stack: **Vue · Node · Python · AI/ML**.  
 - 🌱 Currently exploring: **LLM + ELN** to make lab data smarter.  
-- 📫 Reach me via [Issues](https://github.com/cx-luo/eLabX/issues) or cx.luo@example.com.  
+- 📫 Reach me via [Issues](https://github.com/cx-luo/eLabX/issues) or chengxiang.luo@foxmail.com.  
 
 ---
 
