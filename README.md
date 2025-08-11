@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/cx-luo">
-    <img src="https://github-readme-stats.vercel.app/api?username=cx-luo&show_icons=true&theme=radical&hide=stars&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cx-luo&show_icons=true&theme=radical&hide=stars&count_private=true&cache_seconds=7200" height="150" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cx-luo&layout=compact&theme=radical&hide=html,javascript" height="150" alt="Top Languages"/>
   </a>
 </p>
