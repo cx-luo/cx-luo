@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI-Driven+ELN+for+next-gen+labs.;Vue.js%2C+Python%2C+FastAPI%2C+Docker.;Welcome+to+my+GitHub+universe!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+universe!">
 </p>
 
 - 🔬 **Creator:** [eLabX](https://github.com/cx-luo/eLabX) — AI-powered electronic lab notebook for researchers, chemists, and engineers.
