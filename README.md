@@ -3,6 +3,7 @@
 </p>
 
 - 🔬 **Creator:** [eLabX](https://github.com/cx-luo/eLabX) — AI-powered electronic lab notebook for researchers, chemists, and engineers.
+- 🧪 **Project:** [go-indigo](https://github.com/cx-luo/go-indigo) — Go-based cheminformatics toolkit for high-performance molecular and reaction computations, powered by Indigo.
 - 🛠️ **Tech Stack:** Go · Vue · Node.js · Python · AI/ML
 - 🌱 **Exploring:** LLM + ELN for smarter lab data.
 - 📫 **Contact:** [Open an Issue](https://github.com/cx-luo/eLabX/issues) or email chengxiang.luo@foxmail.com
@@ -33,6 +34,7 @@
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**eLabX**](https://github.com/cx-luo/eLabX) | ![GitHub Repo stars](https://img.shields.io/github/stars/cx-luo/eLabX?style=social) | AI-driven ELN for modern research labs. |
+| [**go-indigo**](https://github.com/cx-luo/go-indigo) | ![GitHub Repo stars](https://img.shields.io/github/stars/cx-luo/go-indigo?style=social) | High-performance molecular and reaction toolkit in Go, powered by Indigo via CGO. Supports molecule and reaction processing, rendering, and cheminformatics features. |
 
 ---
 
