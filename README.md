@@ -31,16 +31,27 @@
 
 ## 🚀 Featured Projects
 
-<style>
-table th:first-of-type {
-	width: 70px;
-}
-</style>
-
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [**eLabX**](https://github.com/cx-luo/eLabX) | ![GitHub Repo stars](https://img.shields.io/github/stars/cx-luo/eLabX?style=social) | AI-driven ELN for modern research labs. |
-| [**go-indigo**](https://github.com/cx-luo/go-indigo) | ![GitHub Repo stars](https://img.shields.io/github/stars/cx-luo/go-indigo?style=social) | High-performance molecular and reaction toolkit in Go, powered by Indigo via CGO. Supports molecule and reaction processing, rendering, and cheminformatics features. |
+<table>
+  <thead>
+    <tr>
+      <th style="width: 70px">Project</th>
+      <th style="width: 80px">Stars</th>
+      <th style="width: auto">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/cx-luo/eLabX"><strong>eLabX</strong></a></td>
+      <td><img src="https://img.shields.io/github/stars/cx-luo/eLabX?style=social" alt="GitHub Repo stars"></td>
+      <td>AI-driven ELN for modern research labs.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cx-luo/go-indigo"><strong>go-indigo</strong></a></td>
+      <td><img src="https://img.shields.io/github/stars/cx-luo/go-indigo?style=social" alt="GitHub Repo stars"></td>
+      <td>High-performance molecular and reaction toolkit in Go, powered by Indigo via CGO. Supports molecule and reaction processing, rendering, and cheminformatics features.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
