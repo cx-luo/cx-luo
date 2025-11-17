@@ -30,13 +30,13 @@
 ---
 
 ## 🚀 Featured Projects
-
+<p align="center">
 <table>
   <thead>
     <tr>
-      <th style="width: 95px">Project</th>
-      <th style="width: auto">Stars</th>
-      <th style="width: auto">Description</th>
+      <th>Project</th>
+      <th>Stars</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -53,6 +53,12 @@
   </tbody>
 </table>
 
+<style>
+  table th:first-of-type {
+    width: 100px;
+  }
+</style>
+</p>
 ---
 
 <p align="center">
