@@ -34,8 +34,8 @@
 <table>
   <thead>
     <tr>
-      <th style="width: 70px">Project</th>
-      <th style="width: 80px">Stars</th>
+      <th style="width: 95px">Project</th>
+      <th style="width: auto">Stars</th>
       <th style="width: auto">Description</th>
     </tr>
   </thead>
