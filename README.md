@@ -36,6 +36,7 @@ table th:first-of-type {
 	width: 70px;
 }
 </style>
+
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**eLabX**](https://github.com/cx-luo/eLabX) | ![GitHub Repo stars](https://img.shields.io/github/stars/cx-luo/eLabX?style=social) | AI-driven ELN for modern research labs. |
