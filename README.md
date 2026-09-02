@@ -1,80 +1,76 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+universe!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=860&lines=AIDD+for+small-molecule+drug+discovery;Building+AI-native+scientific+discovery+workflows;Cheminformatics+%C2%B7+ELN+%C2%B7+Research+software" alt="Typing SVG">
 </p>
 
-- 🔬 **Creator:** [eLabX](https://github.com/cx-luo/eLabX) — AI-powered electronic lab notebook for researchers, chemists, and engineers.
-- 🧪 **Project:** [go-indigo](https://github.com/cx-luo/go-indigo) — Go-based cheminformatics toolkit for high-performance molecular and reaction computations, powered by Indigo.
-- 🛠️ **Tech Stack:** Go · Vue · Node.js · Python · AI/ML
-- 🌱 **Exploring:** LLM + ELN for smarter lab data.
-- 📫 **Contact:** [Open an Issue](https://github.com/cx-luo/eLabX/issues) or email chengxiang.luo@foxmail.com
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">AIDD Researcher in Small-Molecule Drug Discovery</h1>
 
 <p align="center">
-  <a href="https://github.com/cx-luo">
-    <img src="https://github-readme-stats.vercel.app/api?username=cx-luo&show_icons=true&theme=radical&hide=stars&count_private=true&cache_seconds=7200" height="150" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cx-luo&layout=compact&theme=radical&hide=html,javascript" height="150" alt="Top Languages"/>
-  </a>
+  <strong>Fitz Luo</strong> · <strong>AI for Drug Discovery</strong> · <strong>Scientific Discovery Workflows & Software</strong>
+</p>
+
+<p align="center">
+  <a href="https://cx-luo.github.io"><img src="https://img.shields.io/badge/Website-cx--luo.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/chengxiang-luo"><img src="https://img.shields.io/badge/LinkedIn-chengxiang--luo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0003-4492-2410"><img src="https://img.shields.io/badge/ORCID-0009--0003--4492--2410-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="mailto:chengxiang.luo@foxmail.com"><img src="https://img.shields.io/badge/Email-chengxiang.luo%40foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🛠️ Skills & Ecosystem
+## What I Build
+
+- **AI-powered scientific discovery workflows:** building [eLabX](https://github.com/cx-luo/eLabX), an open-source electronic laboratory notebook for researchers, chemists, and engineers.
+- **Cheminformatics infrastructure:** maintaining [go-indigo](https://github.com/cx-luo/go-indigo), [go-chem](https://github.com/cx-luo/go-chem), and [PyChemKit](https://github.com/cx-luo/PyChemKit) for molecular structure processing and chemistry data workflows.
+- **Scientific AI experiments:** exploring LLM-assisted lab notes, reaction yield prediction, retrosynthesis workflows, and practical tools for data-heavy research.
+
+---
+
+## Featured Open Source
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [eLabX](https://github.com/cx-luo/eLabX) | AI-driven electronic laboratory notebook for modern research labs | Vue, Go, Gin, GORM, AI |
+| [go-indigo](https://github.com/cx-luo/go-indigo) | High-performance molecule and reaction processing via Indigo CGO bindings | Go, CGO, Indigo |
+| [go-chem](https://github.com/cx-luo/go-chem) | Go library for molecular structure processing, file formats, and properties | Go, Chemistry |
+| [PyChemKit](https://github.com/cx-luo/PyChemKit) | Python toolkit for chemistry and molecular data experiments | Python, Chemistry |
+| [rxn-yield-prediction](https://github.com/cx-luo/rxn-yield-prediction) | Deep learning model for chemical reaction yield prediction | Python, ML, Chemistry |
+
+---
+
+## Tech Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,vue,nodejs,c,cpp,mysql,postgres,docker,githubactions">
+  <img src="https://skillicons.dev/icons?i=go,python,vue,nodejs,fastapi,c,cpp,mysql,postgres,docker,githubactions,linux" alt="Tech stack icons">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-AIDD-00ADD8?style=flat-square" alt="AIDD">
+  <img src="https://img.shields.io/badge/Domain-Small%20Molecules-4FC08D?style=flat-square" alt="Small molecules">
+  <img src="https://img.shields.io/badge/Domain-Cheminformatics-FF6B6B?style=flat-square" alt="Cheminformatics">
+  <img src="https://img.shields.io/badge/Focus-Scientific%20Discovery%20Workflows-7C3AED?style=flat-square" alt="Scientific discovery workflows">
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<table>
-  <thead>
-    <tr>
-      <th style="width: 100px">Project</th>
-      <th>Stars</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width: 100px"><a href="https://github.com/cx-luo/eLabX"><strong>eLabX</strong></a></td>
-      <td><img src="https://img.shields.io/github/stars/cx-luo/eLabX?style=social" alt="GitHub Repo stars"></td>
-      <td>AI-driven ELN for modern research labs.</td>
-    </tr>
-    <tr>
-      <td style="width: 100px"><a href="https://github.com/cx-luo/go-indigo"><strong>go-indigo</strong></a></td>
-      <td><img src="https://img.shields.io/github/stars/cx-luo/go-indigo?style=social" alt="GitHub Repo stars"></td>
-      <td>High-performance molecular and reaction toolkit in Go, powered by Indigo via CGO. Supports molecule and reaction processing, rendering, and cheminformatics features.</td>
-    </tr>
-  </tbody>
-</table>
-
----
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cx-luo/cx-luo/output/github-contribution-grid-snake.svg" alt="snake light mode">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cx-luo&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cx-luo/cx-luo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cx-luo/cx-luo/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/cx-luo/cx-luo/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cx-luo.cx-luo" alt="Visitor Badge" style="margin-right: 6px;">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://blog.csdn.net/weixin_46668148" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-ReadVersion-orange?logo=csdn&logoColor=white" alt="CSDN Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cx-luo.cx-luo" alt="Visitor badge">
+  <a href="https://blog.csdn.net/weixin_46668148"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-square&logo=csdn&logoColor=white" alt="CSDN"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 </p>
